@@ -1,0 +1,45 @@
+{
+    "name": "ts-eslint-sample",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/takara2314/ts-eslint-sample.git"
+    },
+    "keywords": [],
+    "author": "takara2314",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/takara2314/ts-eslint-sample/issues"
+    },
+    "homepage": "https://github.com/takara2314/ts-eslint-sample#readme",
+    "dependencies": {
+        "tslib": "^2.3.1"
+    },
+    "devDependencies": {
+        "@types/mini-css-extract-plugin": "^2.2.0",
+        "@types/webpack": "^5.28.0",
+        "@types/webpack-dev-server": "^3.11.5",
+        "@typescript-eslint/eslint-plugin": "^4.29.1",
+        "@typescript-eslint/parser": "^4.29.1",
+        "css-loader": "^6.2.0",
+        "esbuild-loader": "^2.15.0",
+        "eslint": "^7.32.0",
+        "html-loader": "^2.1.2",
+        "html-webpack-plugin": "^5.3.2",
+        "mini-css-extract-plugin": "^2.2.0",
+        "postcss-cli": "^8.3.1",
+        "postcss-loader": "^6.1.1",
+        "tailwindcss": "^2.2.7",
+        "ts-loader": "^9.2.5",
+        "ts-node": "^10.2.0",
+        "typescript": "^4.3.5",
+        "webpack": "^5.50.0",
+        "webpack-cli": "^4.7.2",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
